@@ -1,7 +1,7 @@
-# Compound Word Finder
+# Compound Word Finder : Impledge Recruitment
 
 
-# Cloning a Repository from GitHub
+##  Cloning a Repository from GitHub
 
 ### Command Line:
 
