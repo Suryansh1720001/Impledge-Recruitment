@@ -114,6 +114,7 @@ public class CompoundedWords {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 
+        // Name the input file you want to read - Input_02.txt
         List<String> wordList = readWordsFromFile("D:\\Impledge Recruitment\\Impledge_Recruitment_TASK\\src\\TASK\\Input_02.txt");
 
         if (wordList != null && !wordList.isEmpty()) {
