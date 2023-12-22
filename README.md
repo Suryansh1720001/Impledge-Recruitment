@@ -1,5 +1,21 @@
 # Compound Word Finder
 
+
+# Cloning a Repository from GitHub
+
+### Command Line:
+
+
+1. **Terminal/Command Prompt:** Open your terminal.
+2. **Navigate:** Move to your desired directory.
+3. **Clone:** Use `git clone` followed by the URL.
+
+Copy this and paste it in your git bash : 
+ `git clone https://github.com/username/repository.git`
+
+
+
+
 ## Overview
 This Java application aims to identify the longest and second longest compounded words within a text file containing a list of alphabetically sorted words. A compounded word is defined as a word that can be constructed by concatenating shorter words from the same list.
 
