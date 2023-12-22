@@ -11,7 +11,7 @@
 3. **Clone:** Use `git clone` followed by the URL.
 
 Copy this and paste it in your git bash : 
- `git clone https://github.com/username/repository.git`
+ `git clone https://github.com/Suryansh1720001/Impledge-Recruitment`
 
 
 
